@@ -55,8 +55,8 @@ php artisan test
 - Menjalankan database seeder mengirim file ke database.
 php artisan db:seed
 ```
--  Mengoptimalkan aplikasi Laravel.
-``bash
+- Mengoptimalkan aplikasi Laravel.
+```bash
 php artisan optimize
 ```
 # 3. Mengelola aplikasi:
