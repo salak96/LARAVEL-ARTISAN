@@ -53,6 +53,7 @@ php artisan tinker
 php artisan test
 ```
 - Menjalankan database seeder mengirim file ke database.
+```bash
 php artisan db:seed
 ```
 - Mengoptimalkan aplikasi Laravel.
